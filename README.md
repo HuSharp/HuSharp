@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jinhao Hu, aka HuSharp\*, Hu#\*.
+### Hi there 👋 I'm Jinhao Hu, aka HuSharp\*, Hu#.
 
 🏢 I'm currently employed at [PingCAP](https://github.com/pingcap).
 
