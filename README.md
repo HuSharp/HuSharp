@@ -10,4 +10,4 @@
 
 ✉️ Reach me: [Email](mailto:ihusharp@gmail.com) | [Linkedin](https://www.linkedin.com/in/jinhao-hu-656035201/)
 
-\* Pronounced as /huʃɑrp/.
+\* Pronounced as /huʃɑ:rp/.
