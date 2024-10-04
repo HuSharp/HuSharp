@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jinhao Hu, aka HuSharp\*, Hu#.
 
-🏢 I'm currently employed at [PingCAP](https://github.com/pingcap).
+🏢 I'm currently a PhD Student at [MPI-SWS](https://www.mpi-sws.org/), previously employed at [PingCAP](https://github.com/pingcap).
 
 🧗 I'm interested in various fields including but not limited to: distributed system, database, and operating system.
 
